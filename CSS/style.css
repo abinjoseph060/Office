@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+    border: 1px solid white;
+}
+
+table {
+    border-color: darkblue;
+}
+
+#Tr_id {
+    border: 1px thistle;
+}
