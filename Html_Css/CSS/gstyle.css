@@ -1,0 +1,23 @@
+#top {
+    height: 233px;
+    margin-top: 89px;
+    align-self: center;
+}
+
+#logo {
+    align-items: center;
+    align-content: center;
+}
+
+.sbar {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
+div {
+    background-color: blue;
+}
